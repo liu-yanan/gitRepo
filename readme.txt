@@ -4,3 +4,5 @@ test git .
 test git log .
 test diff .
 test git add .
+Git tracks changes .
+test no add .
