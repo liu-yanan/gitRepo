@@ -8,4 +8,4 @@ Git tracks changes .
 test no add .
 create new branch .
 creating new branch other and conflict fixed .
-
+test commit --no-ff .
