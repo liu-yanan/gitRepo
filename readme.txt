@@ -7,5 +7,5 @@ test git add .
 Git tracks changes .
 test no add .
 create new branch .
-creating new branch other .
+creating new branch other and conflict fixed .
 
