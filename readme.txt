@@ -11,3 +11,4 @@ creating new branch other and conflict fixed .
 test commit --no-ff .
 new conflict
 test conflict with ff.
+test stash.
