@@ -7,4 +7,6 @@ test git add .
 Git tracks changes .
 test no add .
 create new branch .
+creating a new branch is quick and simple .
+
 
