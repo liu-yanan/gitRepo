@@ -9,5 +9,5 @@ test no add .
 create new branch .
 creating new branch other and conflict fixed .
 new conflict .
-test conflict with ff .
+test conflicts with ff .
 test new branch and merge .
